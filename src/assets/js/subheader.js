@@ -1,0 +1,1 @@
+subheaderCart.addEventListener('click', openModal);
